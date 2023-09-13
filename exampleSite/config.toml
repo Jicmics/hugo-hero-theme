@@ -32,23 +32,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = ""
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
-    weight = 1
-
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
     weight = 3
 
 [[menu.main]]
