@@ -28,8 +28,8 @@ theme = "hugo-hero-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "J9B3 is a full fledged consulting firm, specializing in the latest cloud computing technologies"
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "o"
+    meta_twitter_creator = ""
 
 [[menu.main]]
 	name = "Services"
